@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: scanner_universal
+Version: 1.2.16
+Summary: ANYISP Universal Scanner Client (licensed, V5/V6)
+Requires-Python: >=3.9
+Requires-Dist: requests
+Requires-Dist: colorama
+Requires-Dist: tqdm
+Requires-Dist: pycryptodome
+Requires-Dist: termcolor
+Requires-Dist: beautifulsoup4
+Requires-Dist: pyperclip
+Requires-Dist: websocket-client
+Requires-Dist: multithreading
