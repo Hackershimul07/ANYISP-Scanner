@@ -1,0 +1,10 @@
+requests
+colorama
+tqdm
+pycryptodome
+termcolor
+beautifulsoup4
+pyperclip
+websocket-client
+multithreading
+aiohttp
