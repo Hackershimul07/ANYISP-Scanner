@@ -7,9 +7,6 @@ pkg update -y
 echo "[+] Installing Python..."
 pkg install -y python
 
-echo "[+] Upgrading pip..."
-python -m pip install --upgrade pip
-
 if [ -f requirements.txt ]; then
     echo "[+] Installing Python dependencies..."
     python -m pip install -r requirements.txt
@@ -18,3 +15,4 @@ else
 fi
 
 echo "[+] Installation complete."
+echo "[+] Run: ./run.sh"
