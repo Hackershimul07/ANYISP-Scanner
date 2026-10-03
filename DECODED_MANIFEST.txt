@@ -1,0 +1,10 @@
+Decoded package: scanner_universal-1.2.16-py3-none-any.whl
+
+Python source files:
+scanner.py
+security/__init__.py
+security/_manifest.py
+security/core.py
+security/license.py
+v5_engine.py
+v6_engine.py
